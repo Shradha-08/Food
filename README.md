@@ -1,5 +1,6 @@
 # Online food Ordering Restaurant Website
-The online food ordering application provides convenience for the customers. It overcomes the disadvantages of the traditional queuing system. The system increases the takeaway of the foods than visitors. Therefore, this system enhances the speed and standardization of taking the order from the customer. It provides a better communication platform; the customer’s details are noted electronically.
+The online food ordering website provides convenience for the customers. It overcomes the disadvantages of the traditional queuing system. The system increases the takeaway of the foods than visitors. Growing need for an online food ordering system, such a system offers a convenient and time-saving way for customers to order their favorite meals from the comfort of their homes or offices.
+
 
 # Technologies Used
 * Html
