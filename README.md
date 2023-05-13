@@ -5,4 +5,4 @@ The online food ordering application provides convenience for the customers. It 
 Html
 CSS
 javaScript
-*Bootstrap
+* Bootstrap
